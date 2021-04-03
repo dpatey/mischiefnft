@@ -1,0 +1,29 @@
+body {
+    padding-top: 5rem;
+    background: #000;
+    font-family: 'Didact Gothic', sans-serif;
+    color:#fff;
+    font-size: 1.2em;
+    line-height:1.5em;
+}
+.starter-template {
+    padding: 3rem 1rem;
+    text-align: left;
+}
+
+h2 {
+    margin-top:2em;
+}
+
+h1, h2 {
+    border-bottom:1px solid #F90064;
+}
+
+a, a:visited, .text-pink {
+    color:#F90064;
+    text-decoration:none;
+}
+
+a:hover {
+    text-decoration:underline;
+}
